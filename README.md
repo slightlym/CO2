@@ -22,3 +22,6 @@ Two data files were used:
 2. Per capita production data are taken from [Robbie Andrew's website](https://folk.universitetetioslo.no/roberan/GCB2020.shtml). Robbie Andrew is from CICERO for International Climate Research, and the page is reported to be a repository for figures presented in the Global Carbon Budget 2020. The dataset used is [full fossil CO2 dataset in CSV format, per capita (1750–2019)](https://folk.uio.no/roberan/GCP/data2020/GCB2020v18_percapita_flat.zip). This file is used as is. It is not really needed for the study, and if you prefer a different data source for the population by country, it should not change the results dramatically.
 
 Having these three files (`Territorial emissions.csv`, `Consumption emissions.csv` and Robbie Andrew's `GCB2020v18_MtCO2_flat.csv` files) is all you need to run the data preparation as described in the Jupyter Notebook.
+
+### The output of the project
+See this visualisation: [https://public.tableau.com/app/profile/yaroslav.klimenko/viz/WorldandSwissCO2Emissions2018/WorldCO2Emissions](https://public.tableau.com/app/profile/yaroslav.klimenko/viz/WorldandSwissCO2Emissions2018/WorldCO2Emissions)
